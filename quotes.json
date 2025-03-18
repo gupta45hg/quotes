@@ -1,0 +1,84 @@
+{
+  "quotes": [
+    {
+      "quote": "The only way to do great work is to love what you do.",
+      "author": "Steve Jobs"
+    },
+    {
+      "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+      "author": "Winston Churchill"
+    },
+    {
+      "quote": "Code is like humor. When you have to explain it, it’s bad.",
+      "author": "Cory House"
+    },
+    {
+      "quote": "Simplicity is the soul of efficiency.",
+      "author": "Austin Freeman"
+    },
+    {
+      "quote": "First, solve the problem. Then, write the code.",
+      "author": "John Johnson"
+    },
+    {
+      "quote": "The best way to predict the future is to invent it.",
+      "author": "Alan Kay"
+    },
+    {
+      "quote": "Programming isn't about what you know; it's about what you can figure out.",
+      "author": "Chris Pine"
+    },
+    {
+      "quote": "A good programmer is someone who always looks both ways before crossing a one-way street.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+      "author": "C.S. Lewis"
+    },
+    {
+      "quote": "Do or do not, there is no try.",
+      "author": "Yoda"
+    },
+    {
+      "quote": "It’s not a bug – it’s an undocumented feature.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "The function of good software is to make the complex appear to be simple.",
+      "author": "Grady Booch"
+    },
+    {
+      "quote": "The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.",
+      "author": "Stephen Hawking"
+    },
+    {
+      "quote": "Life is too short to code in bad languages.",
+      "author": "Anonymous"
+    },
+    {
+      "quote": "If debugging is the process of removing bugs, then programming must be the process of putting them in.",
+      "author": "Edsger Dijkstra"
+    },
+    {
+      "quote": "If you’re not failing every now and then, it’s a sign you’re not doing anything very innovative.",
+      "author": "Woody Allen"
+    },
+    {
+      "quote": "In theory, there is no difference between theory and practice. But, in practice, there is.",
+      "author": "Jan L.A. van de Snepscheut"
+    },
+    {
+      "quote": "It’s not about having the right opportunities. It’s about handling the opportunities right.",
+      "author": "Mark Cuban"
+    },
+    {
+      "quote": "There are only two hard things in computer science: cache invalidation and naming things.",
+      "author": "Phil Karlton"
+    },
+    {
+      "quote": "The problem is not that there are problems. The problem is expecting otherwise and thinking that having problems is a problem.",
+      "author": "Theodore Rubin"
+    }
+  ]
+}
